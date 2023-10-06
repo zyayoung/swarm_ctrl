@@ -1,0 +1,38 @@
+Host mango-0
+  HostName 192.168.10.52
+  # HostName 192.168.1.174
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  User orangepi
+
+Host mango-1
+  HostName 192.168.10.66
+  # HostName 192.168.1.106
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  User orangepi
+
+Host mango-2
+  HostName 192.168.10.51
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  User orangepi
+
+Host mango-3
+  HostName 192.168.10.175
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  User orangepi
+
+Host mango-4
+  HostName 192.168.10.61
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  User orangepi
+
+Host mango-5
+  HostName 192.168.10.53
+  # HostName 192.168.1.107
+  ForwardX11 yes
+  ForwardX11Trusted yes
+  User orangepi
